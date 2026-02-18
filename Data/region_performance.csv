@@ -1,0 +1,6 @@
+Region,Quantity,TotalPrice,RegionManager,StoreLocation
+North,3442,967957.98,['Ryan'],['Store B' 'Store C' 'Store A' 'Store D']
+East,3078,883633.718,['Eric'],['Store B' 'Store C' 'Store D' 'Store A']
+West,3041,853478.8589999999,['Wendy'],['Store D' 'Store A' 'Store B' 'Store C']
+Central,3102,847153.6845,['Cameron'],['Store A' 'Store D' 'Store C' 'Store B']
+South,2953,827768.187,['Sophie'],['Store A' 'Store C' 'Store D' 'Store B']

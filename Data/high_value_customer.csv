@@ -1,0 +1,21 @@
+CustomerName,Region,Quantity,TotalPrice
+Cust 9159,['South' 'Central'],37,17313.604
+Cust 1947,['South' 'North'],43,16087.442
+Cust 9397,['South' 'North'],28,13842.981
+Cust 2137,['East' 'Central'],32,13668.392
+Cust 4240,['North' 'West'],28,12743.704
+Cust 6895,['South'],25,12313.25
+Cust 4715,['East'],27,12244.23
+Cust 1186,['South' 'East'],26,11826.3315
+Cust 4101,['East' 'North'],29,11678.836
+Cust 5049,['West'],27,11287.457999999999
+Cust 6211,['West'],20,11077.0
+Cust 4456,['South' 'West'],23,10985.022
+Cust 4627,['East'],20,10949.7
+Cust 5462,['Central'],20,10745.6
+Cust 9534,['Central'],18,10719.54
+Cust 2800,['West' 'South'],23,10706.903999999999
+Cust 1422,['West'],19,10649.5
+Cust 1210,['West'],20,10531.0
+Cust 1135,['North' 'East'],30,10420.654
+Cust 7942,['North' 'Central'],29,10415.957999999999

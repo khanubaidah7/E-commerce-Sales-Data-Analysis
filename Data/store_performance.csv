@@ -1,0 +1,5 @@
+StoreLocation,Region,Salesperson,Quantity,Discount,TotalPrice
+Store D,['Central' 'South' 'West' 'East' 'North'],['Diana' 'Bob' 'Frank' 'Eva' 'Alice' 'Carlos'],4139,30.25,1205525.87
+Store A,['South' 'Central' 'West' 'North' 'East'],['Alice' 'Frank' 'Carlos' 'Eva' 'Bob' 'Diana'],3945,26.5,1088512.6
+Store C,['East' 'South' 'Central' 'North' 'West'],['Carlos' 'Alice' 'Frank' 'Bob' 'Eva' 'Diana'],3851,26.5,1056304.8
+Store B,['East' 'North' 'Central' 'West' 'South'],['Eva' 'Alice' 'Diana' 'Carlos' 'Bob' 'Frank'],3681,26.45,1029649.15
