@@ -7,7 +7,7 @@ and operational efficiency to support data-driven business decisions.
 Dashboard Pages
 Pictures of the dashboards and insights are given below
 Sales Summary
-<img width="608" height="350" alt="sales summary" src="https://github.com/user-attachments/assets/68e968a3-1596-4e5e-b974-3ab8b2cdac2a" />
+<img width="594" height="337" alt="sales summary" src="https://github.com/user-attachments/assets/63eb74fc-b4ac-4af5-9d4e-d67d727156df" />
 “Sales summary shows overall business performance”
 Visuals:
 • KPI cards
@@ -15,7 +15,7 @@ Visuals:
 • Tree map for regional based sales
 
 Region Performance
-<img width="637" height="376" alt="region performance" src="https://github.com/user-attachments/assets/915c36e0-3fea-4a15-a977-bd72cc0f1c4d" />
+<img width="598" height="337" alt="region performance" src="https://github.com/user-attachments/assets/733d1277-5c55-45d2-91d6-103c3592e3fb" />
 Region analysis highlights that Region North contributes the highest sales, while Region South
 underperforms. Region East, West, Central are also doing well performance. There are Five
 regions we have and each of region has a regional manager. Ryan is the manager of North
@@ -27,7 +27,7 @@ Visuals:
 • Stacked column chart
 
 Product Summary Promotion impact And Sales Person Performance
-<img width="645" height="371" alt="product summary" src="https://github.com/user-attachments/assets/2570bbbe-6e4c-4128-9ddc-2c4d9b9f16d0" />
+<img width="601" height="339" alt="product summary" src="https://github.com/user-attachments/assets/06e6f821-0c3b-42f4-be08-a773dc14b7ca" />
 The analysis indicates that Tablets generated the highest revenue among all product categories,
 while Phones recorded comparatively lower revenue. Other product categories, including
 Printers, Monitors, Laptops, Desks, and Chairs, also performed well and contributed
@@ -45,7 +45,7 @@ Visuals:
 • Clustered bar chart
 
 High Value Customers (Top customers)
-<img width="640" height="369" alt="late delivery impact and payment method popularity" src="https://github.com/user-attachments/assets/36ff920f-c7c2-4a65-b82f-ebc3ad393410" />
+<img width="599" height="327" alt="high value customer" src="https://github.com/user-attachments/assets/a2782125-fa8d-453c-8a77-fde3433e5057" />
 The analysis highlights the top 20 customers who demonstrated strong spending behavior and
 contributed significantly to overall revenue. Customer spending was notably higher in the South,
 North, and Central regions compared to other regions.
@@ -59,7 +59,7 @@ Multi rows card
 Clustered bar chart
 
 Delivery, Returns, and Payment Summary
-<img width="636" height="375" alt="high value customer" src="https://github.com/user-attachments/assets/30c29e70-f158-4c44-acd4-039a2e604545" />
+<img width="595" height="331" alt="late delivery impact and payment method popularity" src="https://github.com/user-attachments/assets/2751662a-7d07-456a-b35f-632d5698a89a" />
 The analysis shows that a total of 168 items were returned. Delivery performance was evenly
 distributed, with 681 orders delivered on time and 681 orders delivered late. The total shipping
 cost amounted to 18.58K.
